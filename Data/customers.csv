@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Email,City,CreatedDate
+1,Akshita,Sharma,akshita@gmail.com,Delhi,2023-01-10
+2,Rahul,Verma,rahul@gmail.com,Mumbai,2023-02-05
+3,Priya,Singh,priya@gmail.com,Bangalore,2023-02-20
+4,Amit,Patel,amit@gmail.com,Ahmedabad,2023-03-15
+5,Neha,Kapoor,neha@gmail.com,Pune,2023-04-01
